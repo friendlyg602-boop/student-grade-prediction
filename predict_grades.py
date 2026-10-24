@@ -1,5 +1,5 @@
 """
-Student grade predictor (beginner-friendly)
+Student grade predictor
 
 Dataset: UCI "Student Performance" (student-mat.csv, math class)
 Download: https://archive.ics.uci.edu/dataset/320/student+performance
